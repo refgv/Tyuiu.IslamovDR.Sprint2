@@ -11,7 +11,7 @@ namespace Tyuiu.IslamovDR.Sprint2.Task4.V17.Lib
                 ? Math.Pow(6 + (2 / Math.Pow(x, 2)), y)
                 : y + (12 / Math.Pow(x, 2));
 
-            return Math.Round(z, 3); 
+            return Math.Round(z, 3);
         }
     }
 }
