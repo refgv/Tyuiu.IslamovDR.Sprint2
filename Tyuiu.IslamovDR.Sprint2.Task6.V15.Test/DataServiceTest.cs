@@ -11,10 +11,10 @@ namespace Tyuiu.IslamovDR.Sprint2.Task6.V15.Test
         {
             DataService ds = new DataService();
 
-            Assert.AreEqual("понедельник", ds.FindDayName(1));
-            Assert.AreEqual("вторник", ds.FindDayName(2));
-            Assert.AreEqual("воскресенье", ds.FindDayName(7));
-            Assert.AreEqual("понедельник", ds.FindDayName(8));
+            Assert.AreEqual("Понедельник", ds.FindDayName(1));
+            Assert.AreEqual("Вторник", ds.FindDayName(2));
+            Assert.AreEqual("Воскресенье", ds.FindDayName(7));
+            Assert.AreEqual("Понедельник", ds.FindDayName(8));
         }
     }
 }

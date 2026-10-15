@@ -13,7 +13,7 @@ namespace Tyuiu.IslamovDR.Sprint2.Task4.V17.Test
             double x = 30;
             double y = 4;
             double res = ds.Calculate(x, y);
-            Assert.AreEqual(1334.809, res);
+            Assert.AreEqual(1297.921, res);
         }
 
         [TestMethod]

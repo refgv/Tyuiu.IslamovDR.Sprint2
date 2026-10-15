@@ -1,4 +1,9 @@
 <Solution>
+  <Folder Name="/Review/">
+    <Project Path="Tyuiu.IslamovDR.Sprint2.Review0.V19.Lib/Tyuiu.IslamovDR.Sprint2.Review0.V19.Lib.csproj" Id="b663a6e0-9b3d-4bd2-854f-57fba83e60d3" />
+    <Project Path="Tyuiu.IslamovDR.Sprint2.Review0.V19.Test/Tyuiu.IslamovDR.Sprint2.Review0.V19.Test.csproj" Id="f1d08ce2-258e-4523-bd0c-f85ba2019a7f" />
+    <Project Path="Tyuiu.IslamovDR.Sprint2.Review0.V19/Tyuiu.IslamovDR.Sprint2.Review0.V19.csproj" Id="9f8487bb-75c8-4724-b4d0-3cfe475e2df1" />
+  </Folder>
   <Folder Name="/Task0/">
     <Project Path="Tyuiu.IslamovDR.Sprint2.Task0.V8.Lib/Tyuiu.IslamovDR.Sprint2.Task0.V8.Lib.csproj" />
     <Project Path="Tyuiu.IslamovDR.Sprint2.Task0.V8.Test/Tyuiu.IslamovDR.Sprint2.Task0.V8.Test.csproj" />
